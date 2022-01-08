@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactnetflixtopfive/static/css/main.5fbbae1a.chunk.css",
+    "main.js": "/reactnetflixtopfive/static/js/main.c29df46f.chunk.js",
+    "main.js.map": "/reactnetflixtopfive/static/js/main.c29df46f.chunk.js.map",
+    "runtime-main.js": "/reactnetflixtopfive/static/js/runtime-main.25dd0c72.js",
+    "runtime-main.js.map": "/reactnetflixtopfive/static/js/runtime-main.25dd0c72.js.map",
+    "static/js/2.d712ecf8.chunk.js": "/reactnetflixtopfive/static/js/2.d712ecf8.chunk.js",
+    "static/js/2.d712ecf8.chunk.js.map": "/reactnetflixtopfive/static/js/2.d712ecf8.chunk.js.map",
+    "index.html": "/reactnetflixtopfive/index.html",
+    "static/css/main.5fbbae1a.chunk.css.map": "/reactnetflixtopfive/static/css/main.5fbbae1a.chunk.css.map",
+    "static/js/2.d712ecf8.chunk.js.LICENSE.txt": "/reactnetflixtopfive/static/js/2.d712ecf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25dd0c72.js",
+    "static/js/2.d712ecf8.chunk.js",
+    "static/css/main.5fbbae1a.chunk.css",
+    "static/js/main.c29df46f.chunk.js"
+  ]
+}
